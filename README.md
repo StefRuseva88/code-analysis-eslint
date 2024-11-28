@@ -59,10 +59,6 @@ Many popular code editors support ESLint via plugins or extensions. Real-time li
 - This repository includes a sample ESLint configuration file and demonstrates its usage with the `Script.js` file.
 - ESLint rules are fully customizable, allowing you to tailor configurations based on project-specific needs.
 
-## Contributing
-
-Contributions are welcome! If you have improvements or bug fixes, please open a pull request.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
